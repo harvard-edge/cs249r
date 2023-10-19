@@ -1,3 +1,9 @@
 [submodule "book"]
 	path = book
 	url = https://github.com/harvard-edge/cs249r_book.git
+[submodule "fall_2020/assignments"]
+	path = fall_2020/assignments
+	url = https://github.com/Harvard-CS249R-Fall2020/assignments.git
+[submodule "fall_2022/assignments/assignment_2"]
+	path = fall_2022/assignments/assignment_2
+	url = https://github.com/mmaz/cs249r-a2.git
